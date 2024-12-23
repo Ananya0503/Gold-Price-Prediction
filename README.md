@@ -6,8 +6,11 @@ Gold is a valuable asset and its price is influenced by various factors includin
 #Features
 
 -Preprocessing of historical gold price data.
+
 -Feature selection and engineering for improved model performance.
+
 -Implementation of machine learning algorithms such as Linear Regression and Decision Tree Regressor.
+
 -Performance evaluation metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
 
 #Dataset
