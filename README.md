@@ -15,17 +15,25 @@ Gold is a valuable asset and its price is influenced by various factors includin
 
 #Dataset
 The dataset contains historical data of gold prices along with features like:
+
 -Date
+
 -Gold Price
+
 -Macroeconomic Indicators (e.g., inflation rate, interest rate)
+
 -Currency exchange rates
 
 #Technologies Used
+
 -Programming Language: Python
+
 -Libraries:
+
 NumPy
 Pandas
 Scikit-learn
 Matplotlib
 Seaborn
+
 -Tools: Jupyter Notebook or any Python IDE
